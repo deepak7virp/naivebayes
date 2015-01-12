@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/KMeansClustering/lib/hadoop-common-2.2.0.jar"/>
+	<classpathentry kind="lib" path="/KMeansClustering/lib/hadoop-hdfs-2.2.0.jar"/>
+	<classpathentry kind="lib" path="/KMeansClustering/lib/hadoop-mapreduce-client-common-2.2.0.jar"/>
+	<classpathentry kind="lib" path="/KMeansClustering/lib/hadoop-mapreduce-client-core-2.2.0.jar"/>
+	<classpathentry kind="lib" path="/KMeansClustering/lib/hadoop-mapreduce-client-jobclient-2.2.0.jar"/>
+	<classpathentry kind="lib" path="/KMeansClustering/lib/hadoop-mapreduce-client-shuffle-2.2.0.jar"/>
+	<classpathentry kind="lib" path="/KMeansClustering/lib/hadoop-yarn-api-2.2.0.jar"/>
+	<classpathentry kind="lib" path="/KMeansClustering/lib/hadoop-yarn-client-2.2.0.jar"/>
+	<classpathentry kind="lib" path="/KMeansClustering/lib/hadoop-yarn-common-2.2.0.jar"/>
+	<classpathentry kind="lib" path="/KMeansClustering/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/KMeansClustering/lib/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="/KMeansClustering/lib/slf4j-log4j12-1.7.5.jar"/>
+	<classpathentry kind="lib" path="/home/ajain22/Downloads/commons-io-2.4/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="/home/ajain22/Downloads/commons-io-2.4/commons-io-2.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/ajain22/Downloads/commons-io-2.4/commons-io-2.4-sources.jar"/>
+	<classpathentry kind="lib" path="/home/ajain22/Downloads/commons-io-2.4/commons-io-2.4-tests.jar"/>
+	<classpathentry kind="lib" path="/home/ajain22/Downloads/commons-io-2.4/commons-io-2.4-test-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
